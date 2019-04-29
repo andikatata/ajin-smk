@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text renders correctly 1`] = `
+<p
+  className="MuiTypography-root-2 MuiTypography-body1-11 Component-text-1"
+/>
+`;
+
+exports[`Text renders with custom class 1`] = `
+<p
+  className="MuiTypography-root-2 MuiTypography-body1-11 Component-text-1 test"
+/>
+`;

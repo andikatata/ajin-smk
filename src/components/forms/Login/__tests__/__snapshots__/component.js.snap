@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component renders correctly 1`] = `
+<form>
+  <div />
+  <div />
+  <div>
+    <span
+      className="MuiTypography-root-2 MuiTypography-caption-12 MuiTypography-alignRight-16 Component-text-1"
+    >
+      Lupa Password?
+    </span>
+  </div>
+  <div>
+    <button
+      className="MuiButtonBase-root-51 MuiButton-root-27 MuiButton-contained-36 MuiButton-containedPrimary-37 MuiButton-raised-39 MuiButton-raisedPrimary-40 MuiButton-sizeLarge-49 MuiButton-fullWidth-50"
+      disabled={false}
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="submit"
+    >
+      <span
+        className="MuiButton-label-28"
+      >
+        Login
+      </span>
+      <span
+        className="MuiTouchRipple-root-54"
+      />
+    </button>
+  </div>
+</form>
+`;
+
+exports[`Component renders correctly with message 1`] = `
+<form>
+  <div />
+  <div />
+  <div>
+    <span
+      className="MuiTypography-root-2 MuiTypography-caption-12 MuiTypography-alignRight-16 Component-text-1"
+    >
+      Lupa Password?
+    </span>
+  </div>
+  <div>
+    <button
+      className="MuiButtonBase-root-51 MuiButton-root-27 MuiButton-contained-36 MuiButton-containedPrimary-37 MuiButton-raised-39 MuiButton-raisedPrimary-40 MuiButton-sizeLarge-49 MuiButton-fullWidth-50"
+      disabled={false}
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="submit"
+    >
+      <span
+        className="MuiButton-label-28"
+      >
+        Login
+      </span>
+      <span
+        className="MuiTouchRipple-root-54"
+      />
+    </button>
+  </div>
+</form>
+`;

@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextField renders correctly 1`] = `
+<div
+  className="MuiFormControl-root-2 MuiFormControl-marginNormal-3 MuiFormControl-fullWidth-5"
+>
+  <div
+    className="MuiInput-root-6 MuiInput-fullWidth-13 MuiInput-formControl-7 MuiInput-underline-10"
+  >
+    <input
+      aria-invalid={false}
+      className="MuiInput-input-14"
+      disabled={false}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      required={false}
+      type="text"
+    />
+  </div>
+  
+</div>
+`;
+
+exports[`TextField renders with helper text 1`] = `
+<div
+  className="MuiFormControl-root-2 MuiFormControl-marginNormal-3 MuiFormControl-fullWidth-5"
+>
+  <div
+    className="MuiInput-root-6 MuiInput-error-11 MuiInput-fullWidth-13 MuiInput-formControl-7 MuiInput-underline-10"
+  >
+    <input
+      aria-invalid={true}
+      className="MuiInput-input-14"
+      disabled={false}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      required={false}
+      type="text"
+    />
+  </div>
+  <p
+    className="MuiFormHelperText-root-19 MuiFormHelperText-error-20"
+  >
+    test
+  </p>
+</div>
+`;
